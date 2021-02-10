@@ -205,6 +205,7 @@ PRODUCT_PACKAGES += \
     HardwareInfo \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
+    MatchmakerPrebuiltPixel2 \
     MyVerizonServices \
     OBDM_Permissions \
     SprintDM \
